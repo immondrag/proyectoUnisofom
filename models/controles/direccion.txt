@@ -1,0 +1,30 @@
+pais: {
+    type: String,
+  },
+  codigoPostal: {
+    type: String,
+  },
+  ciudad: {
+    type: String,
+  },
+  uso: {
+    type: String,
+  },
+  estado: {
+    type: String,
+  },
+  colonia: {
+    type: String,
+  },
+  municipio: {
+    type: String,
+  },
+  calle: {
+    type: String,
+  },
+  numeroExterior: {
+    type: String,
+  },
+  numeroInterior: {
+    type: String,
+  },

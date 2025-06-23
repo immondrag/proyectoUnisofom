@@ -1,0 +1,2794 @@
+[{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c641"
+  },
+  "claveCatalogo": "alcoholismo",
+  "claveElemento": "bebedorActualDiario",
+  "elemento": "Bebedor actual de alcohol, diario",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c642"
+  },
+  "claveCatalogo": "alcoholismo",
+  "claveElemento": "bebedorActualEventual",
+  "elemento": "Bebedor actual de alcohol, eventual",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c643"
+  },
+  "claveCatalogo": "alcoholismo",
+  "claveElemento": "exBebedor",
+  "elemento": "Ex Bebedor",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c644"
+  },
+  "claveCatalogo": "alcoholismo",
+  "claveElemento": "nuncaHaBebido",
+  "elemento": "Nunca ha bebido alcohol",
+  "orden": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c645"
+  },
+  "claveCatalogo": "alcoholismo",
+  "claveElemento": "bebedorActualEstatusDesconocido",
+  "elemento": "Bebedor, estado actual desconocido",
+  "orden": "5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c646"
+  },
+  "claveCatalogo": "alcoholismo",
+  "claveElemento": "seDesconoce",
+  "elemento": "Se desconoce si bebe o ha bebido alcohol",
+  "orden": "6",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c647"
+  },
+  "claveCatalogo": "cie10",
+  "claveElemento": "cie10",
+  "elemento": "CIE-10",
+  "orden": "999",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c648"
+  },
+  "claveCatalogo": "drogadiccion",
+  "claveElemento": "consumidorActualDiario",
+  "elemento": "Consumidor de drogas actual, diario",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c649"
+  },
+  "claveCatalogo": "drogadiccion",
+  "claveElemento": "consumidorActualEventual",
+  "elemento": "Consumidor de drogas actual, eventual",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c64a"
+  },
+  "claveCatalogo": "drogadiccion",
+  "claveElemento": "exConsumidor",
+  "elemento": "Ex Consumidor de Droga",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c64b"
+  },
+  "claveCatalogo": "drogadiccion",
+  "claveElemento": "nuncaHaConsumido",
+  "elemento": "Nunca ha consumido drogas",
+  "orden": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c64c"
+  },
+  "claveCatalogo": "drogadiccion",
+  "claveElemento": "consumidorActualEstatusDesconocido",
+  "elemento": "Consumidor, estado actual desconocido",
+  "orden": "5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c64e"
+  },
+  "claveCatalogo": "entidad",
+  "claveElemento": "cdmx",
+  "elemento": "CDMX",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c64d"
+  },
+  "claveCatalogo": "drogadiccion",
+  "claveElemento": "seDesconoce",
+  "elemento": "Se desconoce si consume o ha consumido drogas",
+  "orden": "6",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c64f"
+  },
+  "claveCatalogo": "entidad",
+  "claveElemento": "chihuahua",
+  "elemento": "Chihuahua",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c650"
+  },
+  "claveCatalogo": "entidad",
+  "claveElemento": "jalisco",
+  "elemento": "Jalisco",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c651"
+  },
+  "claveCatalogo": "escolaridad",
+  "claveElemento": "sinEscolaridad",
+  "elemento": "Sin escolaridad",
+  "orden": "1",
+  "claveElementoNom024": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c652"
+  },
+  "claveCatalogo": "escolaridad",
+  "claveElemento": "sabeLeerEscribir",
+  "elemento": "Sabe leer y escribir",
+  "orden": "2",
+  "claveElementoNom024": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c653"
+  },
+  "claveCatalogo": "escolaridad",
+  "claveElemento": "primaria",
+  "elemento": "Primaria Completa",
+  "orden": "3",
+  "claveElementoNom024": "5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c654"
+  },
+  "claveCatalogo": "escolaridad",
+  "claveElemento": "secundaria",
+  "elemento": "Secundaria o equivalente Completa",
+  "orden": "4",
+  "claveElementoNom024": "7",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c655"
+  },
+  "claveCatalogo": "escolaridad",
+  "claveElemento": "preparatoria",
+  "elemento": "Preparatorio",
+  "orden": "5",
+  "claveElementoNom024": "8",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c656"
+  },
+  "claveCatalogo": "escolaridad",
+  "claveElemento": "profesional",
+  "elemento": "Profesional",
+  "orden": "6",
+  "claveElementoNom024": "10",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c657"
+  },
+  "claveCatalogo": "escolaridad",
+  "claveElemento": "carreraTecnica",
+  "elemento": "Carrera Técnica",
+  "orden": "7",
+  "claveElementoNom024": "9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c658"
+  },
+  "claveCatalogo": "escolaridad",
+  "claveElemento": "postgrado",
+  "elemento": "Postgrado",
+  "orden": "8",
+  "claveElementoNom024": "11",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c659"
+  },
+  "claveCatalogo": "escolaridad",
+  "claveElemento": "otro",
+  "elemento": "Otra",
+  "orden": "9",
+  "claveElementoNom024": "12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c65a"
+  },
+  "claveCatalogo": "escolaridad",
+  "claveElemento": "noAplica",
+  "elemento": "No Aplica",
+  "orden": "10",
+  "claveElementoNom024": "98",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c65b"
+  },
+  "claveCatalogo": "escolaridad",
+  "claveElemento": "noEspecificado",
+  "elemento": "No especificado",
+  "orden": "11",
+  "claveElementoNom024": "99",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c65c"
+  },
+  "claveCatalogo": "escolaridad",
+  "claveElemento": "primariaIncompleta",
+  "elemento": "Primaria Incompleta (3 a 5 años)",
+  "orden": "12",
+  "claveElementoNom024": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c65d"
+  },
+  "claveCatalogo": "escolaridad",
+  "claveElemento": "primariaIncompleta",
+  "elemento": "Primaria Incompleta (menos de 3 años)",
+  "orden": "13",
+  "claveElementoNom024": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c65e"
+  },
+  "claveCatalogo": "escolaridad",
+  "claveElemento": "secundariaIncompleta",
+  "elemento": "Secundaria o equivalente Incompleta",
+  "orden": "14",
+  "claveElementoNom024": "6",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c660"
+  },
+  "claveCatalogo": "estadoCivil",
+  "claveElemento": "casado",
+  "elemento": "Casado(a)",
+  "orden": "2",
+  "claveCatalogoNom024": "CATEDOCONYUGAL",
+  "claveElementoNom024": "5",
+  "elementoNom024": "Casado (a)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c65f"
+  },
+  "claveCatalogo": "estadoCivil",
+  "claveElemento": "soltero",
+  "elemento": "Soltero(a)",
+  "orden": "1",
+  "claveCatalogoNom024": "CATEDOCONYUGAL",
+  "claveElementoNom024": "1",
+  "elementoNom024": "Soltero (a)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c661"
+  },
+  "claveCatalogo": "estadoCivil",
+  "claveElemento": "viudo",
+  "elemento": "Viudo(a)",
+  "orden": "3",
+  "claveCatalogoNom024": "CATEDOCONYUGAL",
+  "claveElementoNom024": "2",
+  "elementoNom024": "Viudo (a)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c663"
+  },
+  "claveCatalogo": "estadoCivil",
+  "claveElemento": "union-libre",
+  "elemento": "Union Libre",
+  "orden": "5",
+  "claveCatalogoNom024": "CATEDOCONYUGAL",
+  "claveElementoNom024": "4",
+  "elementoNom024": "En unión libre",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c662"
+  },
+  "claveCatalogo": "estadoCivil",
+  "claveElemento": "divorciado",
+  "elemento": "Divorciado(a)",
+  "orden": "4",
+  "claveCatalogoNom024": "CATEDOCONYUGAL",
+  "claveElementoNom024": "3",
+  "elementoNom024": "Divorciado (a)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c664"
+  },
+  "claveCatalogo": "estadoCivil",
+  "claveElemento": "concubinato",
+  "elemento": "Concubinato",
+  "orden": "6",
+  "claveCatalogoNom024": "CATEDOCONYUGAL",
+  "claveElementoNom024": "4",
+  "elementoNom024": "En unión libre",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c665"
+  },
+  "claveCatalogo": "estadoCivil",
+  "claveElemento": "separado",
+  "elemento": "Separado(a)",
+  "orden": "7",
+  "claveCatalogoNom024": "CATEDOCONYUGAL",
+  "claveElementoNom024": "6",
+  "elementoNom024": "Separado (a)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c666"
+  },
+  "claveCatalogo": "estadoCivil",
+  "claveElemento": "noAplica",
+  "elemento": "No Aplica",
+  "orden": "8",
+  "claveCatalogoNom024": "CATEDOCONYUGAL",
+  "claveElementoNom024": "8",
+  "elementoNom024": "No aplica",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c667"
+  },
+  "claveCatalogo": "estadoCivil",
+  "claveElemento": "seIgnora",
+  "elemento": "Se Ignora",
+  "orden": "9",
+  "claveCatalogoNom024": "CATEDOCONYUGAL",
+  "claveElementoNom024": "9",
+  "elementoNom024": "Se ignora",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c668"
+  },
+  "claveCatalogo": "estadoCivil",
+  "claveElemento": "otro",
+  "elemento": "No Especificado",
+  "orden": "10",
+  "claveCatalogoNom024": "CATEDOCONYUGAL",
+  "claveElementoNom024": "0",
+  "elementoNom024": "N.E.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c669"
+  },
+  "claveCatalogo": "estadoPostoperatorio",
+  "claveElemento": "delicado",
+  "elemento": "Delicado",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c66a"
+  },
+  "claveCatalogo": "estadoPostoperatorio",
+  "claveElemento": "estable",
+  "elemento": "Estable",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c66b"
+  },
+  "claveCatalogo": "estadoPostoperatorio",
+  "claveElemento": "grave",
+  "elemento": "Grave",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c66c"
+  },
+  "claveCatalogo": "estadoPostoperatorio",
+  "claveElemento": "inestable",
+  "elemento": "Inestable",
+  "orden": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c66e"
+  },
+  "claveCatalogo": "estadoPreoperatorioPaciente",
+  "claveElemento": "delicado",
+  "elemento": "Delicado",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c66d"
+  },
+  "claveCatalogo": "estadoPreoperatorioPaciente",
+  "claveElemento": "bueno",
+  "elemento": "Bueno",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c66f"
+  },
+  "claveCatalogo": "estadoPreoperatorioPaciente",
+  "claveElemento": "estable",
+  "elemento": "Estable",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c670"
+  },
+  "claveCatalogo": "estadoPreoperatorioPaciente",
+  "claveElemento": "grave",
+  "elemento": "Grave",
+  "orden": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c671"
+  },
+  "claveCatalogo": "genero",
+  "claveElemento": "male",
+  "elemento": "Hombre",
+  "orden": "1",
+  "claveCatalogoNom024": "catSexo",
+  "claveElementoNom024": "1",
+  "elementoNom024": "Masculino",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c672"
+  },
+  "claveCatalogo": "genero",
+  "claveElemento": "female",
+  "elemento": "Mujer",
+  "orden": "2",
+  "claveCatalogoNom024": "catSexo",
+  "claveElementoNom024": "2",
+  "elementoNom024": "Femenino",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c673"
+  },
+  "claveCatalogo": "genero",
+  "claveElemento": "other",
+  "elemento": "Otro",
+  "orden": "3",
+  "claveCatalogoNom024": "catSexo",
+  "claveElementoNom024": "9",
+  "elementoNom024": "No Especificado",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c674"
+  },
+  "claveCatalogo": "gradoCedulaProfesional",
+  "claveElemento": "licenciatura",
+  "elemento": "Licenciatura",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c675"
+  },
+  "claveCatalogo": "gradoCedulaProfesional",
+  "claveElemento": "posgrado",
+  "elemento": "Posgrado",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c676"
+  },
+  "claveCatalogo": "iniciaOContinua",
+  "claveElemento": "inicia",
+  "elemento": "Inicia",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c678"
+  },
+  "claveCatalogo": "listaDePaquetesEstudiosDiagnosticos",
+  "claveElemento": "quimicaSanguinea35Elementos",
+  "elemento": "Química sanguínea de 35 elementos",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c677"
+  },
+  "claveCatalogo": "iniciaOContinua",
+  "claveElemento": "continua",
+  "elemento": "Continua",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c679"
+  },
+  "claveCatalogo": "listaDePaquetesEstudiosDiagnosticos",
+  "claveElemento": "quimicaSanguinea33Elementos",
+  "elemento": "Química sanguínea de 33 elementos",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c67a"
+  },
+  "claveCatalogo": "listaDePaquetesEstudiosDiagnosticos",
+  "claveElemento": "quimicaSanguinea17Elementos",
+  "elemento": "Química sanguínea de 17 elementos",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c67b"
+  },
+  "claveCatalogo": "listaDePaquetesProcedimientos",
+  "claveElemento": "paquete5SesionesRadioterapia",
+  "elemento": "Paquete de 5 Sesiones de Radioterapia",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c67c"
+  },
+  "claveCatalogo": "listaDePaquetesProcedimientos",
+  "claveElemento": "paquete5SesionesQuimioterapia",
+  "elemento": "Paquete de 5 Sesiones de Quimioterapia",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c67f"
+  },
+  "claveCatalogo": "localizacionPresionArterial",
+  "claveElemento": "tobillo",
+  "elemento": "Tobillo",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c67e"
+  },
+  "claveCatalogo": "localizacionPresionArterial",
+  "claveElemento": "brazo",
+  "elemento": "Brazo",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c684"
+  },
+  "claveCatalogo": "localizacionPulso",
+  "claveElemento": "temporal",
+  "elemento": "Temporal",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c67d"
+  },
+  "claveCatalogo": "listaDePaquetesProcedimientos",
+  "claveElemento": "paquete5SesionesFisioterapia",
+  "elemento": "Paquete de 5 Sesiones de Fisioterapia",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c680"
+  },
+  "claveCatalogo": "localizacionPresionArterial",
+  "claveElemento": "muneca",
+  "elemento": "Muñeca",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c685"
+  },
+  "claveCatalogo": "localizacionPulso",
+  "claveElemento": "axilar",
+  "elemento": "Axilar",
+  "orden": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c681"
+  },
+  "claveCatalogo": "localizacionPresionArterial",
+  "claveElemento": "muslo",
+  "elemento": "Muslo",
+  "orden": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c683"
+  },
+  "claveCatalogo": "localizacionPulso",
+  "claveElemento": "carotideo",
+  "elemento": "Carotídeo",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c682"
+  },
+  "claveCatalogo": "localizacionPulso",
+  "claveElemento": "radial",
+  "elemento": "Radial",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c686"
+  },
+  "claveCatalogo": "localizacionPulso",
+  "claveElemento": "cubital",
+  "elemento": "Cubital",
+  "orden": "5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c687"
+  },
+  "claveCatalogo": "localizacionPulso",
+  "claveElemento": "femoral",
+  "elemento": "Femoral",
+  "orden": "6",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c68a"
+  },
+  "claveCatalogo": "localizacionPulso",
+  "claveElemento": "popliteo",
+  "elemento": "Poplíteo",
+  "orden": "9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c688"
+  },
+  "claveCatalogo": "localizacionPulso",
+  "claveElemento": "humeral",
+  "elemento": "Humeral",
+  "orden": "7",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c689"
+  },
+  "claveCatalogo": "localizacionPulso",
+  "claveElemento": "pedio",
+  "elemento": "Pedio",
+  "orden": "8",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c68d"
+  },
+  "claveCatalogo": "localizacionTemperatura",
+  "claveElemento": "frontal",
+  "elemento": "Frontal",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c68b"
+  },
+  "claveCatalogo": "localizacionPulso",
+  "claveElemento": "tibialPosterior",
+  "elemento": "Tibial Posterior",
+  "orden": "10",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c68c"
+  },
+  "claveCatalogo": "localizacionTemperatura",
+  "claveElemento": "axilar",
+  "elemento": "Axilar",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c68e"
+  },
+  "claveCatalogo": "localizacionTemperatura",
+  "claveElemento": "oral",
+  "elemento": "Oral",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c68f"
+  },
+  "claveCatalogo": "localizacionTemperatura",
+  "claveElemento": "otico",
+  "elemento": "Ótico",
+  "orden": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c690"
+  },
+  "claveCatalogo": "localizacionTemperatura",
+  "claveElemento": "rectal",
+  "elemento": "Rectal",
+  "orden": "5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c691"
+  },
+  "claveCatalogo": "metodoDePago",
+  "claveElemento": "cheque",
+  "elemento": "Cheque",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c692"
+  },
+  "claveCatalogo": "metodoDePago",
+  "claveElemento": "efectivo",
+  "elemento": "Efectivo",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c694"
+  },
+  "claveCatalogo": "metodoDePago",
+  "claveElemento": "transferencia",
+  "elemento": "Transferencia",
+  "orden": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c693"
+  },
+  "claveCatalogo": "metodoDePago",
+  "claveElemento": "tarjetaDeCredito",
+  "elemento": "Tarjeta de Débito o Crédito",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c695"
+  },
+  "claveCatalogo": "miembrosFamilia",
+  "claveElemento": "abuelaMaterna",
+  "elemento": "Abuela Materna",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c696"
+  },
+  "claveCatalogo": "miembrosFamilia",
+  "claveElemento": "abuelaPaterna",
+  "elemento": "Abuela Paterna",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c697"
+  },
+  "claveCatalogo": "miembrosFamilia",
+  "claveElemento": "abueloMaterno",
+  "elemento": "Abuelo Materno",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c698"
+  },
+  "claveCatalogo": "miembrosFamilia",
+  "claveElemento": "abueloPaterno",
+  "elemento": "Abuelo Paterno",
+  "orden": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c699"
+  },
+  "claveCatalogo": "miembrosFamilia",
+  "claveElemento": "madre",
+  "elemento": "Madre",
+  "orden": "5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c69a"
+  },
+  "claveCatalogo": "miembrosFamilia",
+  "claveElemento": "padre",
+  "elemento": "Padre",
+  "orden": "6",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c69b"
+  },
+  "claveCatalogo": "miembrosFamilia",
+  "claveElemento": "prima",
+  "elemento": "Prima(o)",
+  "orden": "7",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c69c"
+  },
+  "claveCatalogo": "miembrosFamilia",
+  "claveElemento": "primaHermana",
+  "elemento": "Prima(o) Hermana(o)",
+  "orden": "8",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c69d"
+  },
+  "claveCatalogo": "miembrosFamilia",
+  "claveElemento": "tiaMaterna",
+  "elemento": "Tia(o) Materna (o)",
+  "orden": "9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c69e"
+  },
+  "claveCatalogo": "miembrosFamilia",
+  "claveElemento": "tiaPaterna",
+  "elemento": "Tía(o) Paterna (o)",
+  "orden": "10",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c69f"
+  },
+  "claveCatalogo": "moneda",
+  "claveElemento": "mxn",
+  "elemento": "MXN",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6a0"
+  },
+  "claveCatalogo": "moneda",
+  "claveElemento": "usd",
+  "elemento": "USD",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6a1"
+  },
+  "claveCatalogo": "nacionalidad",
+  "claveElemento": "mexicana",
+  "elemento": "Mexicana",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6a2"
+  },
+  "claveCatalogo": "nacionalidad",
+  "claveElemento": "argentina",
+  "elemento": "Argentina",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6a3"
+  },
+  "claveCatalogo": "nacionalidad",
+  "claveElemento": "uruguay",
+  "elemento": "Uruguaya",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6a4"
+  },
+  "claveCatalogo": "nombreIdentificacion",
+  "claveElemento": "licenciaConducir",
+  "elemento": "Licencia Conducir",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6a5"
+  },
+  "claveCatalogo": "nombreIdentificacion",
+  "claveElemento": "ine",
+  "elemento": "INE",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6a7"
+  },
+  "claveCatalogo": "nombreIdentificacion",
+  "claveElemento": "credencialTrabajo",
+  "elemento": "Credencial del Trabajo",
+  "orden": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6a6"
+  },
+  "claveCatalogo": "nombreIdentificacion",
+  "claveElemento": "pasaporte",
+  "elemento": "Pasaporte",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6a9"
+  },
+  "claveCatalogo": "nombreInstitucionProcedimientoTerapéutico",
+  "claveElemento": "procedimientosOncologicosOncomed",
+  "elemento": "Procedimientos Oncológicos Oncomed",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6a8"
+  },
+  "claveCatalogo": "nombreInstitucionProcedimientoTerapéutico",
+  "claveElemento": "fisioterapiaDelCentro",
+  "elemento": "Fisioterapia Del Centro",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6ab"
+  },
+  "claveCatalogo": "nombreLaboratorioOGabinete",
+  "claveElemento": "cualquiera",
+  "elemento": "Cualquiera",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6aa"
+  },
+  "claveCatalogo": "nombreInstitucionProcedimientoTerapéutico",
+  "claveElemento": "procedimientosRadiologicosRadiomed",
+  "elemento": "Procedimientos Radiológicos RadioMed",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6ac"
+  },
+  "claveCatalogo": "nombreLaboratorioOGabinete",
+  "claveElemento": "laboratorioAngeles",
+  "elemento": "Laboratorios Angeles",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6ad"
+  },
+  "claveCatalogo": "nombreLaboratorioOGabinete",
+  "claveElemento": "laboratorioChopo",
+  "elemento": "Laboratorios Chopo",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6ae"
+  },
+  "claveCatalogo": "nombreLaboratorioOGabinete",
+  "claveElemento": "laboratorioMedicoPolanco",
+  "elemento": "Laboratorio Médico Polanco",
+  "orden": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6af"
+  },
+  "claveCatalogo": "nombreLaboratorioOGabinete",
+  "claveElemento": "laboratoroLapi",
+  "elemento": "Laboratorios Lapi",
+  "orden": "5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6b0"
+  },
+  "claveCatalogo": "padecimiento",
+  "claveElemento": "alopecia",
+  "elemento": "Alopecia",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6b1"
+  },
+  "claveCatalogo": "padecimiento",
+  "claveElemento": "cefalea",
+  "elemento": "Cefalea",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6b2"
+  },
+  "claveCatalogo": "padecimiento",
+  "claveElemento": "diarrea",
+  "elemento": "Diarrea",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6b3"
+  },
+  "claveCatalogo": "padecimiento",
+  "claveElemento": "disminucionEnLaVision",
+  "elemento": "Disminución en la Visión",
+  "orden": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6b5"
+  },
+  "claveCatalogo": "padecimiento",
+  "claveElemento": "dolor",
+  "elemento": "Dolor",
+  "orden": "6",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6b4"
+  },
+  "claveCatalogo": "padecimiento",
+  "claveElemento": "disuria",
+  "elemento": "Disuria",
+  "orden": "5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6b6"
+  },
+  "claveCatalogo": "padecimiento",
+  "claveElemento": "dolorAbdominal",
+  "elemento": "Dolor Abdominal",
+  "orden": "7",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6b7"
+  },
+  "claveCatalogo": "padecimiento",
+  "claveElemento": "dolorDorsal",
+  "elemento": "Dolor Dorsal",
+  "orden": "8",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6b8"
+  },
+  "claveCatalogo": "padecimiento",
+  "claveElemento": "dolorMuscular",
+  "elemento": "Dolor Muscular",
+  "orden": "9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6bb"
+  },
+  "claveCatalogo": "padecimiento",
+  "claveElemento": "fatiga",
+  "elemento": "Fatiga",
+  "orden": "12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6ba"
+  },
+  "claveCatalogo": "padecimiento",
+  "claveElemento": "exantema",
+  "elemento": "Exantema",
+  "orden": "11",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6b9"
+  },
+  "claveCatalogo": "padecimiento",
+  "claveElemento": "estrenimiento",
+  "elemento": "Estreñimiento",
+  "orden": "10",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6bc"
+  },
+  "claveCatalogo": "padecimiento",
+  "claveElemento": "hipersomnia",
+  "elemento": "Hipersomnia",
+  "orden": "13",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6bd"
+  },
+  "claveCatalogo": "padecimiento",
+  "claveElemento": "inapetencia",
+  "elemento": "Inapetencia",
+  "orden": "14",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6be"
+  },
+  "claveCatalogo": "padecimiento",
+  "claveElemento": "incontinencia",
+  "elemento": "Incontincencia",
+  "orden": "15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6bf"
+  },
+  "claveCatalogo": "padecimiento",
+  "claveElemento": "insomnio",
+  "elemento": "Insomino",
+  "orden": "16",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6c0"
+  },
+  "claveCatalogo": "padecimiento",
+  "claveElemento": "lesionDermatologica",
+  "elemento": "Lesión Dermatológica",
+  "orden": "17",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6c1"
+  },
+  "claveCatalogo": "padecimiento",
+  "claveElemento": "nausea",
+  "elemento": "Náusea",
+  "orden": "18",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6c2"
+  },
+  "claveCatalogo": "padecimiento",
+  "claveElemento": "poliuria",
+  "elemento": "Poliuria",
+  "orden": "19",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6c5"
+  },
+  "claveCatalogo": "pais",
+  "claveElemento": "argentina",
+  "elemento": "Argentina",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6c4"
+  },
+  "claveCatalogo": "pais",
+  "claveElemento": "mexico",
+  "elemento": "México",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6c3"
+  },
+  "claveCatalogo": "padecimiento",
+  "claveElemento": "traumatismo",
+  "elemento": "Traumatismo",
+  "orden": "20",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6c8"
+  },
+  "claveCatalogo": "presentacionParaVenta",
+  "claveElemento": "capsulas",
+  "elemento": "Cápsulas",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6c7"
+  },
+  "claveCatalogo": "presentacionParaVenta",
+  "claveElemento": "ampolletas",
+  "elemento": "Ampolletas",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6c6"
+  },
+  "claveCatalogo": "pais",
+  "claveElemento": "uruguay",
+  "elemento": "Uruguay",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6c9"
+  },
+  "claveCatalogo": "presentacionParaVenta",
+  "claveElemento": "frascos",
+  "elemento": "Frascos",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6ca"
+  },
+  "claveCatalogo": "presentacionParaVenta",
+  "claveElemento": "parches",
+  "elemento": "Parches",
+  "orden": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6cb"
+  },
+  "claveCatalogo": "presentacionParaVenta",
+  "claveElemento": "tabletas",
+  "elemento": "Tabletas",
+  "orden": "5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6cc"
+  },
+  "claveCatalogo": "procedimientoLocalRealizado",
+  "claveElemento": "retiroDeSutura",
+  "elemento": "Retiro de Sutura",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6cd"
+  },
+  "claveCatalogo": "procedimientoLocalRealizado",
+  "claveElemento": "colocacionSondaVesical",
+  "elemento": "Colocación Sonda Vesical",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6cf"
+  },
+  "claveCatalogo": "pronostico",
+  "claveElemento": "bueno",
+  "elemento": "Bueno",
+  "orden": "1",
+  "claveElementoNom024": "65872000",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6ce"
+  },
+  "claveCatalogo": "procedimientoLocalRealizado",
+  "claveElemento": "curacionHerida",
+  "elemento": "Curación de Herida",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6d0"
+  },
+  "claveCatalogo": "pronostico",
+  "claveElemento": "muyBueno",
+  "elemento": "Muy Bueno",
+  "orden": "2",
+  "claveElementoNom024": "170968001",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6d1"
+  },
+  "claveCatalogo": "pronostico",
+  "claveElemento": "reservado",
+  "elemento": "Reservado",
+  "orden": "3",
+  "claveElementoNom024": "67334001",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6d2"
+  },
+  "claveCatalogo": "pronostico",
+  "claveElemento": "incierto",
+  "elemento": "Incierto",
+  "orden": "4",
+  "claveElementoNom024": "170970005",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6d3"
+  },
+  "claveCatalogo": "pronostico",
+  "claveElemento": "condicionadoALaEvolucion",
+  "elemento": "Condicionado a la Evolución",
+  "orden": "5",
+  "claveElementoNom024": "60484009",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6d4"
+  },
+  "claveCatalogo": "pronostico",
+  "claveElemento": "malo",
+  "elemento": "Malo",
+  "orden": "6",
+  "claveElementoNom024": "170969009",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6d5"
+  },
+  "claveCatalogo": "riesgoQuirurgico",
+  "claveElemento": "bajo",
+  "elemento": "Bajo",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6d6"
+  },
+  "claveCatalogo": "riesgoQuirurgico",
+  "claveElemento": "moderado",
+  "elemento": "Moderado",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6d7"
+  },
+  "claveCatalogo": "riesgoQuirurgico",
+  "claveElemento": "alto",
+  "elemento": "Alto",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6d9"
+  },
+  "claveCatalogo": "rolDeUsuario",
+  "claveElemento": "enfermera",
+  "elemento": "Enfermera(o)",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6d8"
+  },
+  "claveCatalogo": "rolDeUsuario",
+  "claveElemento": "doctor",
+  "elemento": "Doctor(a)",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6da"
+  },
+  "claveCatalogo": "rolDeUsuario",
+  "claveElemento": "asistenteAdministrativo",
+  "elemento": "Asistente Administrativo",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6db"
+  },
+  "claveCatalogo": "rolDeUsuario",
+  "claveElemento": "asistenteClinico",
+  "elemento": "Asistente Clínico",
+  "orden": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6dc"
+  },
+  "claveCatalogo": "rolDeUsuario",
+  "claveElemento": "asistenteTecnico",
+  "elemento": "Asistente Técnico",
+  "orden": "5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6dd"
+  },
+  "claveCatalogo": "subTipoDeUsuario",
+  "claveElemento": "asociado",
+  "elemento": "Asociado (Su información puede \nestar asociada a cartas, recetas, \nfacturas, etc)",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6de"
+  },
+  "claveCatalogo": "subTipoDeUsuario",
+  "claveElemento": "noAsociado",
+  "elemento": "No Asociado",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6df"
+  },
+  "claveCatalogo": "subTipoEmpresa",
+  "claveElemento": "electrocardiograma",
+  "elemento": "Electrocardiograma",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6e7"
+  },
+  "claveCatalogo": "subTipoEmpresa",
+  "claveElemento": "anestesico",
+  "elemento": "Anestésico",
+  "orden": "9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6e3"
+  },
+  "claveCatalogo": "subTipoEmpresa",
+  "claveElemento": "laboratorioOptico",
+  "elemento": "Laboratorio Óptico",
+  "orden": "5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6e9"
+  },
+  "claveCatalogo": "subTipoEmpresa",
+  "claveElemento": "oncologico",
+  "elemento": "Oncológico",
+  "orden": "11",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6e0"
+  },
+  "claveCatalogo": "subTipoEmpresa",
+  "claveElemento": "gabinete",
+  "elemento": "Gabinete",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6e8"
+  },
+  "claveCatalogo": "subTipoEmpresa",
+  "claveElemento": "hemodialisis",
+  "elemento": "Hemodiálisis",
+  "orden": "10",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6e4"
+  },
+  "claveCatalogo": "subTipoEmpresa",
+  "claveElemento": "patologia",
+  "elemento": "Patología",
+  "orden": "6",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6e2"
+  },
+  "claveCatalogo": "subTipoEmpresa",
+  "claveElemento": "laboratorio",
+  "elemento": "Laboratorio",
+  "orden": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6e6"
+  },
+  "claveCatalogo": "subTipoEmpresa",
+  "claveElemento": "algologico",
+  "elemento": "Algológico",
+  "orden": "8",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6e1"
+  },
+  "claveCatalogo": "subTipoEmpresa",
+  "claveElemento": "imagenologia",
+  "elemento": "Imagenología",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6e5"
+  },
+  "claveCatalogo": "subTipoEmpresa",
+  "claveElemento": "accesoVascular",
+  "elemento": "Acceso Vascular",
+  "orden": "7",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6ea"
+  },
+  "claveCatalogo": "subTipoEmpresa",
+  "claveElemento": "radiologico",
+  "elemento": "Radiológico",
+  "orden": "12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6eb"
+  },
+  "claveCatalogo": "subTipoEmpresa",
+  "claveElemento": "rehabilitacion",
+  "elemento": "Rehabilitación",
+  "orden": "13",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6ec"
+  },
+  "claveCatalogo": "subTipoEmpresa",
+  "claveElemento": "farmacia",
+  "elemento": "Farmacia",
+  "orden": "14",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6ef"
+  },
+  "claveCatalogo": "subTipoEmpresa",
+  "claveElemento": "convenio",
+  "elemento": "Empresa de Convenio",
+  "orden": "17",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6ee"
+  },
+  "claveCatalogo": "subTipoEmpresa",
+  "claveElemento": "clinica",
+  "elemento": "Clínica",
+  "orden": "16",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6f0"
+  },
+  "claveCatalogo": "subTipoEmpresa",
+  "claveElemento": "aseguradora",
+  "elemento": "Aseguradora",
+  "orden": "18",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6f1"
+  },
+  "claveCatalogo": "subTipoPersonal",
+  "claveElemento": "dr",
+  "elemento": "Dr.",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6f3"
+  },
+  "claveCatalogo": "subTipoPersonal",
+  "claveElemento": "cirujanoResponsable",
+  "elemento": "Cirujano(a) Responsable",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6f2"
+  },
+  "claveCatalogo": "subTipoPersonal",
+  "claveElemento": "dra",
+  "elemento": "Dra.",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6ed"
+  },
+  "claveCatalogo": "subTipoEmpresa",
+  "claveElemento": "hospital",
+  "elemento": "Hospital",
+  "orden": "15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6f5"
+  },
+  "claveCatalogo": "subTipoPersonal",
+  "claveElemento": "segundoAyudante",
+  "elemento": "Segundo Ayudante",
+  "orden": "5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6f7"
+  },
+  "claveCatalogo": "subTipoPersonal",
+  "claveElemento": "anestesiologo",
+  "elemento": "Anestesiólogo(a)",
+  "orden": "7",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6f4"
+  },
+  "claveCatalogo": "subTipoPersonal",
+  "claveElemento": "primerAyudante",
+  "elemento": "Primer Ayudante",
+  "orden": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6f6"
+  },
+  "claveCatalogo": "subTipoPersonal",
+  "claveElemento": "tercerAyudante",
+  "elemento": "Tercer Ayudante",
+  "orden": "6",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6f8"
+  },
+  "claveCatalogo": "subTipoPersonal",
+  "claveElemento": "enfermero",
+  "elemento": "Enfermera(o)",
+  "orden": "8",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6fb"
+  },
+  "claveCatalogo": "subTipoPersonal",
+  "claveElemento": "asistenteAdministración",
+  "elemento": "Asistente Administración",
+  "orden": "11",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6f9"
+  },
+  "claveCatalogo": "subTipoPersonal",
+  "claveElemento": "instrumentista",
+  "elemento": "Instrumentista",
+  "orden": "9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6fd"
+  },
+  "claveCatalogo": "subTipoPersonal",
+  "claveElemento": "asistenteTecnico",
+  "elemento": "Asistente Técnico",
+  "orden": "13",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6fc"
+  },
+  "claveCatalogo": "subTipoPersonal",
+  "claveElemento": "secretaria",
+  "elemento": "Secretaria(o)",
+  "orden": "12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6fa"
+  },
+  "claveCatalogo": "subTipoPersonal",
+  "claveElemento": "circulante",
+  "elemento": "Circulante",
+  "orden": "10",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c707"
+  },
+  "claveCatalogo": "tabaquismo",
+  "claveElemento": "fumadorActualFumaMucho",
+  "elemento": "Fumador actual, en gran cantidad",
+  "orden": "7",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6fe"
+  },
+  "claveCatalogo": "subTipoPersonal",
+  "claveElemento": "referente",
+  "elemento": "Referente",
+  "orden": "14",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c6ff"
+  },
+  "claveCatalogo": "subTipoPersonaRelacionadaPaciente",
+  "claveElemento": "contactoEmergencia",
+  "elemento": "En caso de Emergencia",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c706"
+  },
+  "claveCatalogo": "tabaquismo",
+  "claveElemento": "seDesconoce",
+  "elemento": "Se desconoce si fuma o ha fumado",
+  "orden": "6",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c701"
+  },
+  "claveCatalogo": "tabaquismo",
+  "claveElemento": "fumadorActualDiario",
+  "elemento": "Fumador actual, diario",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c704"
+  },
+  "claveCatalogo": "tabaquismo",
+  "claveElemento": "nuncaHaFumado",
+  "elemento": "Nunca ha fumado",
+  "orden": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c700"
+  },
+  "claveCatalogo": "subTipoPersonaRelacionadaPaciente",
+  "claveElemento": "responsableFinanciero",
+  "elemento": "Responsable Financiero",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c705"
+  },
+  "claveCatalogo": "tabaquismo",
+  "claveElemento": "fumadorActualEstatusDesconocido",
+  "elemento": "Fumador, estatus actual desconocido",
+  "orden": "5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c703"
+  },
+  "claveCatalogo": "tabaquismo",
+  "claveElemento": "exFumador",
+  "elemento": "Ex Fumador",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c702"
+  },
+  "claveCatalogo": "tabaquismo",
+  "claveElemento": "fumadorActualEventual",
+  "elemento": "Fumador actual, eventual",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c711"
+  },
+  "claveCatalogo": "tipoDeUsuario",
+  "claveElemento": "usuario",
+  "elemento": "Usuario",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c710"
+  },
+  "claveCatalogo": "tipoDeUsuario",
+  "claveElemento": "administrador",
+  "elemento": "Usuario Administrador",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c70d"
+  },
+  "claveCatalogo": "tipoDatosFinancieros",
+  "claveElemento": "tarjetaParaDeposito",
+  "elemento": "Tarjeta para Depósito",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c708"
+  },
+  "claveCatalogo": "tabaquismo",
+  "claveElemento": "fumadorActualFumaPoco",
+  "elemento": "Fumador actual, en poca cantidad",
+  "orden": "8",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c70e"
+  },
+  "claveCatalogo": "tipoDatosFinancieros",
+  "claveElemento": "cuentaDeBancoParaPago",
+  "elemento": "Cuenta de Banco para Pago",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c70c"
+  },
+  "claveCatalogo": "tipoDatosFinancieros",
+  "claveElemento": "cuentaDeBancoDeposito",
+  "elemento": "Cuenta de Banco para Depósito",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c70b"
+  },
+  "claveCatalogo": "tipoAnestesia",
+  "claveElemento": "regional",
+  "elemento": "Regional",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c70f"
+  },
+  "claveCatalogo": "tipoDatosFinancieros",
+  "claveElemento": "tarjetaParaPago",
+  "elemento": "Tarjeta para Pago",
+  "orden": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c709"
+  },
+  "claveCatalogo": "tipoAnestesia",
+  "claveElemento": "general",
+  "elemento": "General",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c70a"
+  },
+  "claveCatalogo": "tipoAnestesia",
+  "claveElemento": "local",
+  "elemento": "Local",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c712"
+  },
+  "claveCatalogo": "tipoEmpresa",
+  "claveElemento": "aseguradora",
+  "elemento": "Aseguradora",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c714"
+  },
+  "claveCatalogo": "tipoEmpresa",
+  "claveElemento": "auxiliarTratamiento",
+  "elemento": "Auxiliar de Tratamiento",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c716"
+  },
+  "claveCatalogo": "tipoEmpresa",
+  "claveElemento": "farmacia",
+  "elemento": "Farmacia",
+  "orden": "5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c713"
+  },
+  "claveCatalogo": "tipoEmpresa",
+  "claveElemento": "auxiliarDiagnostico",
+  "elemento": "Auxiliar de Diagnóstico",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c719"
+  },
+  "claveCatalogo": "tipoIdentificacion",
+  "claveElemento": "trabajo",
+  "elemento": "Trabajo",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c718"
+  },
+  "claveCatalogo": "tipoIdentificacion",
+  "claveElemento": "gubernamental",
+  "elemento": "Gubernamental",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c715"
+  },
+  "claveCatalogo": "tipoEmpresa",
+  "claveElemento": "convenio",
+  "elemento": "Empresa de Convenio",
+  "orden": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c717"
+  },
+  "claveCatalogo": "tipoEmpresa",
+  "claveElemento": "institucionSalud",
+  "elemento": "Institución de Salud",
+  "orden": "6",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c71a"
+  },
+  "claveCatalogo": "tipoIdentificacion",
+  "claveElemento": "federal",
+  "elemento": "Federal",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c71b"
+  },
+  "claveCatalogo": "tipoMedioContacto",
+  "claveElemento": "telefono",
+  "elemento": "Teléfono",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c71c"
+  },
+  "claveCatalogo": "tipoMedioContacto",
+  "claveElemento": "email",
+  "elemento": "Correo Electrónico",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c71d"
+  },
+  "claveCatalogo": "tipoMedioContacto",
+  "claveElemento": "otro",
+  "elemento": "Otro",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c71e"
+  },
+  "claveCatalogo": "tipoPagoAceptado",
+  "claveElemento": "deposito",
+  "elemento": "Depósito",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c720"
+  },
+  "claveCatalogo": "tipoPagoAceptado",
+  "claveElemento": "transferenciaBancaria",
+  "elemento": "Transferencia Bancaria",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c722"
+  },
+  "claveCatalogo": "tipoPersonal",
+  "claveElemento": "administrativo",
+  "elemento": "Administrativo",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c721"
+  },
+  "claveCatalogo": "tipoPagoAceptado",
+  "claveElemento": "tarjetaDeCredito",
+  "elemento": "Tarjeta de Crédito",
+  "orden": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c71f"
+  },
+  "claveCatalogo": "tipoPagoAceptado",
+  "claveElemento": "cheque",
+  "elemento": "Cheque",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c723"
+  },
+  "claveCatalogo": "tipoPersonal",
+  "claveElemento": "enfermeria",
+  "elemento": "Enfermería",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c725"
+  },
+  "claveCatalogo": "tipoPersonal",
+  "claveElemento": "referente",
+  "elemento": "Referente",
+  "orden": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c724"
+  },
+  "claveCatalogo": "tipoPersonal",
+  "claveElemento": "medico",
+  "elemento": "Médico",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c726"
+  },
+  "claveCatalogo": "tipoPersonal",
+  "claveElemento": "tecnico",
+  "elemento": "Técnico",
+  "orden": "5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c727"
+  },
+  "claveCatalogo": "trato",
+  "claveElemento": "recienNacido",
+  "elemento": "RN",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c728"
+  },
+  "claveCatalogo": "trato",
+  "claveElemento": "nino",
+  "elemento": "Niño",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c729"
+  },
+  "claveCatalogo": "trato",
+  "claveElemento": "nina",
+  "elemento": "Niña",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c72a"
+  },
+  "claveCatalogo": "trato",
+  "claveElemento": "joven",
+  "elemento": "Joven",
+  "orden": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c72d"
+  },
+  "claveCatalogo": "trato",
+  "claveElemento": "srita",
+  "elemento": "Srita.",
+  "orden": "7",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c72c"
+  },
+  "claveCatalogo": "trato",
+  "claveElemento": "sra",
+  "elemento": "Sra.",
+  "orden": "6",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c72e"
+  },
+  "claveCatalogo": "trato",
+  "claveElemento": "arq",
+  "elemento": "Arq.",
+  "orden": "8",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c72b"
+  },
+  "claveCatalogo": "trato",
+  "claveElemento": "sr",
+  "elemento": "Sr.",
+  "orden": "5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c72f"
+  },
+  "claveCatalogo": "trato",
+  "claveElemento": "dr",
+  "elemento": "Dr(a).",
+  "orden": "9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c730"
+  },
+  "claveCatalogo": "trato",
+  "claveElemento": "enf",
+  "elemento": "Enf.",
+  "orden": "10",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c732"
+  },
+  "claveCatalogo": "trato",
+  "claveElemento": "lic",
+  "elemento": "Lic.",
+  "orden": "12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c731"
+  },
+  "claveCatalogo": "trato",
+  "claveElemento": "ing",
+  "elemento": "Ing.",
+  "orden": "11",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c733"
+  },
+  "claveCatalogo": "trato",
+  "claveElemento": "mstr",
+  "elemento": "Mstr.",
+  "orden": "13",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c734"
+  },
+  "claveCatalogo": "usoMedioContacto",
+  "claveElemento": "movil",
+  "elemento": "Móvil",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c735"
+  },
+  "claveCatalogo": "usoMedioContacto",
+  "claveElemento": "personal",
+  "elemento": "Personal",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c739"
+  },
+  "claveCatalogo": "viaAdministracion",
+  "claveElemento": "intravenosa",
+  "elemento": "IV",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c737"
+  },
+  "claveCatalogo": "viaAdministracion",
+  "claveElemento": "oral",
+  "elemento": "Oral",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c738"
+  },
+  "claveCatalogo": "viaAdministracion",
+  "claveElemento": "intramuscular",
+  "elemento": "IM",
+  "orden": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c736"
+  },
+  "claveCatalogo": "usoMedioContacto",
+  "claveElemento": "trabajo",
+  "elemento": "Trabajo",
+  "orden": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c73a"
+  },
+  "claveCatalogo": "viaAdministracion",
+  "claveElemento": "oftalmica",
+  "elemento": "Oftálmica",
+  "orden": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c73b"
+  },
+  "claveCatalogo": "viaAdministracion",
+  "claveElemento": "otica",
+  "elemento": "Ótica",
+  "orden": "5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c73c"
+  },
+  "claveCatalogo": "viaAdministracion",
+  "claveElemento": "subcutanea",
+  "elemento": "Subcutánea",
+  "orden": "6",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63587b8d7e561680d8e9c73d"
+  },
+  "claveCatalogo": "viaAdministracion",
+  "claveElemento": "topica",
+  "elemento": "Tópica",
+  "orden": "7",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63878e2eb9646bc126ded18f"
+  },
+  "claveCatalogo": "paisConLada",
+  "claveElemento": "mexico",
+  "elemento": "55",
+  "orden": "1"
+},{
+  "_id": {
+    "$oid": "63879400b9646bc126ded190"
+  },
+  "claveCatalogo": "tipo",
+  "claveElemento": "tipo",
+  "elemento": "Tipo direccion",
+  "orden": "1"
+},{
+  "_id": {
+    "$oid": "6387942eb9646bc126ded191"
+  },
+  "claveCatalogo": "sepomex",
+  "claveElemento": "sepomex",
+  "elemento": "Catalogo sepomex",
+  "orden": "1"
+},{
+  "_id": {
+    "$oid": "6387944eb9646bc126ded192"
+  },
+  "claveCatalogo": "uso",
+  "claveElemento": "uso",
+  "elemento": "Uso direccion",
+  "orden": "1"
+},{
+  "_id": {
+    "$oid": "638794d1b9646bc126ded193"
+  },
+  "claveCatalogo": "regimenFiscal",
+  "claveElemento": "regimenFiscal",
+  "elemento": "Regimen Fiscal 1",
+  "orden": "1"
+},{
+  "_id": {
+    "$oid": "638794ffb9646bc126ded194"
+  },
+  "claveCatalogo": "usoCfdi",
+  "claveElemento": "usoCfdi",
+  "elemento": "CFDI USO",
+  "orden": "1"
+},{
+  "_id": {
+    "$oid": "63b71018bbfd803651994df0"
+  },
+  "claveCatalogo": "ocupacion",
+  "claveElemento": "ocupacion",
+  "elemento": "Desarrollador",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b7103cbbfd803651994df1"
+  },
+  "claveCatalogo": "ocupacion",
+  "claveElemento": "ocupacion2",
+  "elemento": "Ama de casa",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b71075bbfd803651994df3"
+  },
+  "claveCatalogo": "religion",
+  "claveElemento": "religion",
+  "elemento": "Religion prueba",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b7109abbfd803651994df5"
+  },
+  "claveCatalogo": "referidoPor",
+  "claveElemento": "referidoPor",
+  "elemento": "Prueba de referencia",
+  "orden": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b710c4bbfd803651994df7"
+  },
+  "claveCatalogo": "empresaConvenio",
+  "claveElemento": "empresaConvenio",
+  "elemento": "Empresas convenio prueba",
+  "orden": "1",
+  "__v": 0
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catRegimenFiscalSat",
+  "claveElemento": "601",
+  "nombreElemento": "General de Ley Personas Morales",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catRegimenFiscalSat",
+  "claveElemento": "603",
+  "nombreElemento": "Personas Morales con Fines no Lucrativos",
+  "orden": 1,
+  "subElemento": []
+},
+
+{
+  "status": "finalizado",
+  "claveCatalogo": "catRegimenFiscalSat",
+  "claveElemento": "605",
+  "nombreElemento": "Sueldos y Salarios e Ingresos Asimilados a Salarios",
+  "orden": 1,
+  "subElemento": []
+},
+
+{
+  "status": "finalizado",
+  "claveCatalogo": "catRegimenFiscalSat",
+  "claveElemento": "606",
+  "nombreElemento": "Arrendamiento",
+  "orden": 1,
+  "subElemento": []
+},
+
+{
+  "status": "finalizado",
+  "claveCatalogo": "catRegimenFiscalSat",
+  "claveElemento": "607",
+  "nombreElemento": "Régimen de Enajenación o Adquisición de Bienes",
+  "orden": 1,
+  "subElemento": []
+},
+
+{
+  "status": "finalizado",
+  "claveCatalogo": "catRegimenFiscalSat",
+  "claveElemento": "608",
+  "nombreElemento": "Demás ingresos",
+  "orden": 1,
+  "subElemento": []
+},
+
+{
+  "status": "finalizado",
+  "claveCatalogo": "catRegimenFiscalSat",
+  "claveElemento": "610",
+  "nombreElemento": "Residentes en el Extranjero sin Establecimiento Permanente en México",
+  "orden": 1,
+  "subElemento": []
+},
+
+{
+  "status": "finalizado",
+  "claveCatalogo": "catRegimenFiscalSat",
+  "claveElemento": "611",
+  "nombreElemento": "Ingresos por Dividendos (socios y accionistas)",
+  "orden": 1,
+  "subElemento": []
+},
+
+{
+  "status": "finalizado",
+  "claveCatalogo": "catRegimenFiscalSat",
+  "claveElemento": "612",
+  "nombreElemento": "Personas Físicas con Actividades Empresariales y Profesionales",
+  "orden": 1,
+  "subElemento": []
+},
+
+{
+  "status": "finalizado",
+  "claveCatalogo": "catRegimenFiscalSat",
+  "claveElemento": "614",
+  "nombreElemento": "Ingresos por intereses",
+  "orden": 1,
+  "subElemento": []
+},
+
+{
+  "status": "finalizado",
+  "claveCatalogo": "catRegimenFiscalSat",
+  "claveElemento": "615",
+  "nombreElemento": "Régimen de los ingresos por obtención de premios",
+  "orden": 1,
+  "subElemento": []
+},
+
+{
+  "status": "finalizado",
+  "claveCatalogo": "catRegimenFiscalSat",
+  "claveElemento": "616",
+  "nombreElemento": "Sin obligaciones fiscales",
+  "orden": 1,
+  "subElemento": []
+},
+
+{
+  "status": "finalizado",
+  "claveCatalogo": "catRegimenFiscalSat",
+  "claveElemento": "620",
+  "nombreElemento": "Sociedades Cooperativas de Producción que optan por diferir sus ingresos",
+  "orden": 1,
+  "subElemento": []
+},
+
+{
+  "status": "finalizado",
+  "claveCatalogo": "catRegimenFiscalSat",
+  "claveElemento": "621",
+  "nombreElemento": "Incorporación Fiscal",
+  "orden": 1,
+  "subElemento": []
+},
+
+{
+  "status": "finalizado",
+  "claveCatalogo": "catRegimenFiscalSat",
+  "claveElemento": "622",
+  "nombreElemento": "Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras",
+  "orden": 1,
+  "subElemento": []
+},
+
+{
+  "status": "finalizado",
+  "claveCatalogo": "catRegimenFiscalSat",
+  "claveElemento": "623",
+  "nombreElemento": "Opcional para Grupos de Sociedades",
+  "orden": 1,
+  "subElemento": []
+},
+
+{
+  "status": "finalizado",
+  "claveCatalogo": "catRegimenFiscalSat",
+  "claveElemento": "624",
+  "nombreElemento": "Coordinados",
+  "orden": 1,
+  "subElemento": []
+},
+
+{
+  "status": "finalizado",
+  "claveCatalogo": "catRegimenFiscalSat",
+  "claveElemento": "625",
+  "nombreElemento": "Régimen de las Actividades Empresariales con ingresos a través de Plataformas Tecnológicas",
+  "orden": 1,
+  "subElemento": []
+},
+
+{
+  "status": "finalizado",
+  "claveCatalogo": "catRegimenFiscalSat",
+  "claveElemento": "626",
+  "nombreElemento": "Régimen Simplificado de Confianza",
+  "orden": 1,
+  "subElemento": []
+},
+
+
+
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "G01",
+  "nombreElemento": "Adquisición de mercancías.",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "G02",
+  "nombreElemento": "Devoluciones, descuentos o bonificaciones.",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "G03",
+  "nombreElemento": "Gastos en general.",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "I01",
+  "nombreElemento": "Construcciones.",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "I02",
+  "nombreElemento": "Mobiliario y equipo de oficina por inversiones.",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "I03",
+  "nombreElemento": "Equipo de transporte.",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "I04",
+  "nombreElemento": "Equipo de computo y accesorios.",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "I05",
+  "nombreElemento": "Dados, troqueles, moldes, matrices y herramental.",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "I06",
+  "nombreElemento": "Comunicaciones telefónicas.",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "I07",
+  "nombreElemento": "Comunicaciones satelitales.",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "D01",
+  "nombreElemento": "Otra maquinaria y equipo.",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "D02",
+  "nombreElemento": "Honorarios médicos, dentales y gastos hospitalarios.",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "D03",
+  "nombreElemento": "Gastos médicos por incapacidad o discapacidad.",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "D04",
+  "nombreElemento": "Gastos funerales.",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "D05",
+  "nombreElemento": "Donativos.",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "D06",
+  "nombreElemento": "Intereses reales efectivamente pagados por créditos hipotecarios (casa habitación).",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "D07",
+  "nombreElemento": "Aportaciones voluntarias al SAR.",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "D08",
+  "nombreElemento": "Primas por seguros de gastos médicos.",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "D09",
+  "nombreElemento": "Gastos de transportación escolar obligatoria.",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "D10",
+  "nombreElemento": "Depósitos en cuentas para el ahorro, primas que tengan como base planes de pensiones.",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "D11",
+  "nombreElemento": "Pagos por servicios educativos (colegiaturas).",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "S01",
+  "nombreElemento": "Sin efectos fiscales.",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "CP01",
+  "nombreElemento": "Pagos",
+  "orden": 1,
+  "subElemento": []
+},
+{
+  "status": "finalizado",
+  "claveCatalogo": "catHacienda20230505",
+  "claveElemento": "CN01",
+  "nombreElemento": "Nómina",
+  "orden": 1,
+  "subElemento": []
+}]

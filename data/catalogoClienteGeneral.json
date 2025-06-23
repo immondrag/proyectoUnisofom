@@ -1,0 +1,549 @@
+[{
+    "claveCatalogo": "CategoriaImagenes",
+    "claveElemento": "CatImg1",
+    "nombreElemento": "General",
+    "orden":1
+  },{
+    "claveCatalogo": "Consultorios",
+    "claveElemento": "consult1",
+    "nombreElemento": "Consultorio 1",
+    "orden":1
+  },
+  {
+    "status": "finalizado",
+    "claveCatalogo": "catClasificacionPaciente",
+    "claveElemento": "familiarMedico",
+    "nombreElemento": "Familiar de Médico",
+    "orden": "3"
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catClasificacionPaciente",
+    "claveElemento": "enProtocolo",
+    "nombreElemento": "En Protocolo",
+    "orden": "2"
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catClasificacionPaciente",
+    "claveElemento": "realizarDescuento",
+    "nombreElemento": "Realizar Descuento",
+    "orden": "4"
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catClasificacionPaciente",
+    "claveElemento": "deEmpresaConvenio",
+    "nombreElemento": "Empresa de Convenio",
+    "orden": "1"
+  },
+  {
+    "status": "finalizado",
+    "claveCatalogo": "catTratoPersona",
+    "claveElemento": "recienNacido",
+    "nombreElemento": "RN",
+    "orden": "1"
+    
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catTratoPersona",
+    "claveElemento": "nino",
+    "nombreElemento": "Niño",
+    "orden": "2"
+    
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catTratoPersona",
+    "claveElemento": "joven",
+    "nombreElemento": "Joven",
+    "orden": "4"
+    
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catTratoPersona",
+    "claveElemento": "arq",
+    "nombreElemento": "Arq.",
+    "orden": "8"
+    
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catTratoPersona",
+    "claveElemento": "nina",
+    "nombreElemento": "Niña",
+    "orden": "3"
+    
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catTratoPersona",
+    "claveElemento": "sr",
+    "nombreElemento": "Sr.",
+    "orden": "5"
+    
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catTratoPersona",
+    "claveElemento": "srita",
+    "nombreElemento": "Srita.",
+    "orden": "7"
+    
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catTratoPersona",
+    "claveElemento": "sra",
+    "nombreElemento": "Sra.",
+    "orden": "6"
+    
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catTratoPersona",
+    "claveElemento": "dr",
+    "nombreElemento": "Dr(a).",
+    "orden": "9"
+    
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catTratoPersona",
+    "claveElemento": "ing",
+    "nombreElemento": "Ing.",
+    "orden": "11"
+    
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catTratoPersona",
+    "claveElemento": "lic",
+    "nombreElemento": "Lic.",
+    "orden": "12"
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catTratoPersona",
+    "claveElemento": "mstr",
+    "nombreElemento": "Mstr.",
+    "orden": "13"
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catTratoPersona",
+    "claveElemento": "enf",
+    "nombreElemento": "Enf.",
+    "orden": "10"
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catTipoConsulta",
+    "claveElemento": "primeraVez",
+    "nombreElemento": "Primera Vez",
+    "orden": "1"
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catTipoConsulta",
+    "claveElemento": "subsecuente",
+    "nombreElemento": "Subsecuente",
+    "orden": "2"
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catTipoConsulta",
+    "claveElemento": "preQuirurgica",
+    "nombreElemento": "Pre Quirúrgica",
+    "orden": "3"
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catTipoConsulta",
+    "claveElemento": "postQuirurgica",
+    "nombreElemento": "Post Quirúrgica",
+    "orden": "4"
+  },
+  {
+    "status": "finalizado",
+    "claveCatalogo": "catTipoAuxiliarDiagnostico",
+    "claveElemento": "electrocardiograma",
+    "nombreElemento": "Electrocardiograma",
+    "orden": "2"
+  },{
+
+    "status": "finalizado",
+    "claveCatalogo": "catTipoAuxiliarDiagnostico",
+    "claveElemento": "patologiaClinica",
+    "nombreElemento": "Patoogía Clínica",
+    "orden": "6"
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catTipoAuxiliarDiagnostico",
+    "claveElemento": "laboratorioClinico",
+    "nombreElemento": "Laboratorio Clínico",
+    "orden": "4"
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catTipoAuxiliarDiagnostico",
+    "claveElemento": "laboratorioOptico",
+    "nombreElemento": "Laboratorio Óptico",
+    "orden": "5"
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catTipoAuxiliarDiagnostico",
+    "claveElemento": "imagenologiaClinica",
+    "nombreElemento": "Imagenología Clínica",
+    "orden": "3"
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catTipoAuxiliarDiagnostico",
+    "claveElemento": "todos",
+    "nombreElemento": "Todos",
+    "orden": "1"
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catTipoAnestesia",
+    "claveElemento": "general",
+    "nombreElemento": "General",
+    "orden": "3"
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catTipoAnestesia",
+    "claveElemento": "local",
+    "nombreElemento": "Local",
+    "orden": "1"
+  },{
+    "status": "finalizado",
+    "claveCatalogo": "catTipoAnestesia",
+    "claveElemento": "regional",
+    "nombreElemento": "Regional",
+    "orden": "2"
+  },
+  {
+    "claveCatalogo": "catTipoAntecedente",
+    "claveElemento": "ago",
+    "nombreElemento": "AGO",
+    "orden": "1",
+    "subElemento": [
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "gestas",
+        "elemento": "Gestas",
+        "orden": "1"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "paras",
+        "elemento": "Paras",
+        "orden": "2"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "abortos",
+        "elemento": "Abortos",
+        "orden": "3"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "cesareas",
+        "elemento": "Cesáreas",
+        "orden": "4"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "fur",
+        "elemento": "FUR",
+        "orden": "5"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "ivsa",
+        "elemento": "IVSA",
+        "orden": "6"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "menarca",
+        "elemento": "Menarca",
+        "orden": "7"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "menopausia",
+        "elemento": "Menopausia",
+        "orden": "8"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "ritmoMenstrual",
+        "elemento": "Ritmo Menstrual",
+        "orden": "9"
+      }
+    ] 
+  },
+  {
+    "claveCatalogo": "catTipoAntecedente",
+    "claveElemento": "ahf",
+    "nombreElemento": "AHF",
+    "orden": "2",
+    "subElemento": [
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "cancerMama",
+        "elemento": "Cáncer de mama",
+        "orden": "1"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "diabetesTipoII",
+        "elemento": "Diabetes Mellitus Tipo II",
+        "orden": "2"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "enfermedadCoronaria",
+        "elemento": "Enfermedad Coronaria",
+        "orden": "3"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "enfermedadVascularCerebral",
+        "elemento": "Enfermedad Vascular Cerebral",
+        "orden": "4"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "hipertensionArterial",
+        "elemento": "Hipertension Arterial",
+        "orden": "5"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "migrana",
+        "elemento": "Migraña",
+        "orden": "6"
+      }
+    ] 
+  },
+  {
+    "claveCatalogo": "catTipoAntecedente",
+    "claveElemento": "alergicos",
+    "nombreElemento": "Alérgicos",
+    "orden": "3",
+    "subElemento": [
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "alimentosFresas",
+        "elemento": "Alimentos: Fresas",
+        "orden": "1"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "alimentosHongos",
+        "elemento": "Alimentos: Hongos",
+        "orden": "2"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "alimentosHuevo",
+        "elemento": "Alimentos: Huevo",
+        "orden": "3"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "alimentosLeche",
+        "elemento": "Alimentos: Leche",
+        "orden": "4"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "alimentosMariscos",
+        "elemento": "Alimentos: Mariscos",
+        "orden": "5"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "medicamentos",
+        "elemento": "Medicamentos",
+        "orden": "6"
+      }
+    ] 
+  },
+  {
+    "claveCatalogo": "catTipoAntecedente",
+    "claveElemento": "antecedentePediatrico",
+    "nombreElemento": "Antecedente pediátrico",
+    "orden": "4",
+    "subElemento": [
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "antecedentesAlimenticios",
+        "elemento": "Antecedentes alimenticios",
+        "orden": "1"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "antecedentesNatales",
+        "elemento": "Antecedentes natales",
+        "orden": "2"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "antecedentesAlimenticios",
+        "elemento": "Antecedentes alimenticios",
+        "orden": "3"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "antecedentesNatales",
+        "elemento": "Antecedentes natales",
+        "orden": "4"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "antecedentesNeonatales",
+        "elemento": "Antecedentes neonatales",
+        "orden": "5"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "antecedentesPrenatales",
+        "elemento": "Antecedentes prenatales",
+        "orden": "6"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "antecedentesPsicomaticos",
+        "elemento": "Antecedentes psicomáticos",
+        "orden": "7"
+      }
+    ] 
+  },
+  {
+    "claveCatalogo": "catTipoAntecedente",
+    "claveElemento": "covid19",
+    "nombreElemento": "COVID-19",
+    "orden": "5",
+    "subElemento": [
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "haPadecidoCOVID",
+        "elemento": "¿Ha padecido COVID-19?",
+        "orden": "1"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "requirioHospitalizacion",
+        "elemento": "¿Requirió Hospitalización?",
+        "orden": "2"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "requirioOxigeno",
+        "elemento": "¿Requirió Oxígeno?",
+        "orden": "3"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "sintomasPrincipales",
+        "elemento": "Síntomas Principales",
+        "orden": "4"
+      }
+    ] 
+  },
+  {
+    "claveCatalogo": "catTipoAntecedente",
+    "claveElemento": "piel",
+    "nombreElemento": "Piel",
+    "orden": "6",
+    "subElemento": [
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "grasa",
+        "elemento": "Grasa",
+        "orden": "1"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "mixta",
+        "elemento": "Mixta",
+        "orden": "2"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "normal",
+        "elemento": "Normal",
+        "orden": "3"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "seca",
+        "elemento": "Seca",
+        "orden": "4"
+      }
+    ] 
+  },
+  {
+    "claveCatalogo": "catTipoAntecedente",
+    "claveElemento": "pnp",
+    "nombreElemento": "PNP",
+    "orden": "7",
+    "subElemento": [
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "actividadFisica",
+        "elemento": "Actividad Física",
+        "orden": "1"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "alcoholicos",
+        "elemento": "Alcohólicos",
+        "orden": "2"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "inmunizaciones",
+        "elemento": "Inmunizaciones",
+        "orden": "3"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "tabaquismo",
+        "elemento": "Tabaquismo",
+        "orden": "4"
+      }
+    ] 
+  },
+  {
+    "claveCatalogo": "catTipoAntecedente",
+    "claveElemento": "pp",
+    "nombreElemento": "PP",
+    "orden": "8",
+    "subElemento": [
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "medicos",
+        "elemento": "Médicos",
+        "orden": "1"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "psiquiatricos",
+        "elemento": "Psiquiátricos",
+        "orden": "2"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "quirurgicos",
+        "elemento": "Quirúrgicos",
+        "orden": "3"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "transfucionales",
+        "elemento": "Transfucionales",
+        "orden": "4"
+      },
+      {
+        "claveCatalogo": "catSubtipoAntecedente",
+        "claveElemento": "traumaticos",
+        "elemento": "Traumáticos",
+        "orden": "5"
+      }
+    ] 
+  },
+  {
+    "status": "finalizado",
+    "claveCatalogo": "catPaisesLada",
+    "claveElemento": "catPaisesLadaMx",
+    "nombreElemento": "55",
+    "orden": "2"
+  }
+
+]
+
