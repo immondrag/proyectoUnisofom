@@ -26,7 +26,7 @@ const crearRegistroUsuario = async (req, res = response) => {
     }
     const idrelacion = getIdRelacion(req);
     const registroUsuario = new RegistroUsuario({
-      registroMiEmpresa: idrelacion,
+      registroMiEmpresa: '66f43f3cbf7bdc0faee8d019',
       ...req.body,
     });
 
